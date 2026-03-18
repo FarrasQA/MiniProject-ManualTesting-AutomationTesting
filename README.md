@@ -3,9 +3,9 @@ Comprehensive QA project demonstrating test planning, automation (Selenium & RES
 
 # **Quality Assurance Testing – Resonance Website**
 
-## **Website Link**
-* UI testing : https://resonance.dibimbing.id/login
-* API testing : https://resonance.dibimbing.id/docs
+## **Test objects**
+* Website : https://resonance.dibimbing.id/login
+* API Documentation : https://resonance.dibimbing.id/docs
 
 ## **Overview**
 

@@ -1,7 +1,11 @@
 # MiniProject-ManualTesting-AutomationTesting
-Comprehensive QA project demonstrating test planning, automation (Selenium &amp; REST Assured), and end-to-end software testing practices.
+Comprehensive QA project demonstrating test planning, automation (Selenium & REST Assured), and end-to-end software testing practices.
 
 # **Quality Assurance Testing – Resonance Website**
+
+## **Website Link**
+* UI testing : https://resonance.dibimbing.id/login
+* API testing : https://resonance.dibimbing.id/docs
 
 ## **Overview**
 
@@ -69,7 +73,7 @@ The project covers **manual testing**, **UI automation**, **API automation**, an
 
 ---
 
-## **📊 Test Results Summary**
+## **Test Results Summary**
 
 | Testing Type       | Total | Passed | Failed |
 | ------------------ | ----- | ------ | ------ |
@@ -78,19 +82,19 @@ The project covers **manual testing**, **UI automation**, **API automation**, an
 | API Automation     | 5     | 5      | 0      |
 | Regression Testing | 8     | 8      | 0      |
 
-✅ **Overall Result: 100% Passed**
+**Overall Result: 100% Passed**
 
 ---
 
-## **🐞 Defect Summary**
+## **Defect Summary**
 
 Although all test cases passed, several improvement points were identified:
 
-* API returns **500 Internal Server Error** for empty/invalid input (should be 401 unauthorized)
+* API returns 500 Internal Server Error for empty/invalid input (should be 401 unauthorized)
 
 ---
 
-## **📁 Project Structure**
+## ** Project Structure**
 
 ```
 ├── testcases/          # Manual test cases (Excel)
@@ -126,7 +130,7 @@ Although all test cases passed, several improvement points were identified:
 
 ---
 
-## **📌 Key Highlights**
+## **Key Highlights**
 
 * End-to-end QA process implementation
 * Combination of **manual & automation testing**
@@ -143,6 +147,6 @@ Although all test cases passed, several improvement points were identified:
 
 ---
 
-## **👤 Author**
+## **Author**
 
 Farras Adani As Shidiq
